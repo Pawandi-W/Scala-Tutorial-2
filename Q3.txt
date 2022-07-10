@@ -1,0 +1,7 @@
+Q3/ Compare the Java and Scala programming languages.
+
+1. Scala is a combination of both object-oriented and functional programming while Java is mostly object-oriented language.
+2. Scala supports lazy evaluation while Java does not support lazy evaluation.
+3. Scala is not backward compatible and Java is backward compatible which allows codes to run on older and newer versions also without any error.
+4. Scala support operator overloading while Java does not support operator overloading.
+5. In Scala every function is treated as a variable and Java treats every function as an object.
